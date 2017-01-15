@@ -1,8 +1,6 @@
 vegan yummies
 =============
 
-http://veganbunny.com/portfolio/veganyummies/
-
 This is a simple website that I created in 2011 for a college class. Utilized XHTML, CSS, PHP, and a MySQL database. 
 
 Home Page
